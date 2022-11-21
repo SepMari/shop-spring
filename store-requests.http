@@ -1,0 +1,7 @@
+### Добавить товар
+GET http://localhost:8080/store/order/add?id=12&id=21
+
+### Получить список товаров
+GET http://localhost:8080/store/order/get
+
+Content-Type: application/json
